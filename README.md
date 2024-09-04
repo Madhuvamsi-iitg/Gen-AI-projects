@@ -1,1 +1,1 @@
-# Gen-AI-projects
+# ATS resume tracking LLM project using Google gemini pro
